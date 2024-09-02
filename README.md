@@ -13,18 +13,19 @@ Fehlerbehandlung: Umfassende Fehlerbehandlung sorgt dafür, dass das Programm au
 Verwendung
 Das Skript kann direkt über die Kommandozeile ausgeführt werden:
 
-bash
-Code kopieren
+
 python system_monitor.py
 Das Programm zeigt die aktuellen Überwachungsergebnisse in der Konsole an, einschließlich Warnungen über verdächtige Aktivitäten.
 
 Anforderungen
 Python 3.x
-psutil Bibliothek
-Installiere die benötigte Bibliothek mit:
 
-bash
-Code kopieren
+psutil Bibliothek
+
+Installiere die benötigte Bibliothek mit:
 pip install psutil
+
+
+
 Lizenz
 Dieses Projekt steht unter der MIT-Lizenz.
